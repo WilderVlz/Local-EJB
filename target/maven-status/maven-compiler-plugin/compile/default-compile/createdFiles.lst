@@ -1,0 +1,4 @@
+mx/com/gm/sga/domain/Person.class
+mx/com/gm/sga/service/PersonServiceIMPL.class
+mx/com/gm/sga/service/PersonService.class
+mx/com/gm/sga/web/PersonaServlet.class
